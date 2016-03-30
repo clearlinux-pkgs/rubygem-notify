@@ -4,7 +4,7 @@
 #
 Name     : rubygem-notify
 Version  : 0.5.2
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/notify-0.5.2.gem
 Source0  : https://rubygems.org/downloads/notify-0.5.2.gem
 Summary  : No detailed summary available
@@ -58,30 +58,25 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/notify-0.5.2.gem
-/usr/lib64/ruby/gems/2.2.0/doc/notify-0.5.2/ri/Notify/cdesc-Notify.ri
-/usr/lib64/ruby/gems/2.2.0/doc/notify-0.5.2/ri/Notify/html_escape-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/notify-0.5.2/ri/Notify/notify-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/notify-0.5.2/ri/Notify/which-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/notify-0.5.2/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/.gitignore
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/VERSION
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/bin/notify
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/lib/notify.rb
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/lib/notify/growlnotify.rb
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/lib/notify/kdialog.rb
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/lib/notify/libnotify.rb
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/lib/notify/notify-send.rb
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/lib/notify/ruby-growl.rb
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/lib/notify/ruby_gntp.rb
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/lib/notify/terminal-notifier.rb
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/lib/notify/version.rb
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/notify.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/notify-0.5.2/sample.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/notify-0.5.2.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/notify-0.5.2.gem
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/.gitignore
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/VERSION
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/bin/notify
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/lib/notify.rb
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/lib/notify/growlnotify.rb
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/lib/notify/kdialog.rb
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/lib/notify/libnotify.rb
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/lib/notify/notify-send.rb
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/lib/notify/ruby-growl.rb
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/lib/notify/ruby_gntp.rb
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/lib/notify/terminal-notifier.rb
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/lib/notify/version.rb
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/notify.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/notify-0.5.2/sample.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/notify-0.5.2.gemspec
 
 %files bin
 %defattr(-,root,root,-)
